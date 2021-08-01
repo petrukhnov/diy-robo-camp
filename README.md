@@ -22,14 +22,17 @@ Simple puzzle could be e.g. a pressure plate that robot have to push with his ow
 Another puzzle could require pressing 3 buttons out of 5 in a specific order. Or a puzzle, where robot have two repeat played sound.
 More complex puzzles may require advanced mechanics, image recognition, or special sensors.
 
-When participants prepare for camp, they should bring robots with all possible components/tools that they may need, and two puzzles. 
+When participants prepare for the camp, they should bring robots with all possible components/tools that they may need, and two puzzles created in advance. 
 
 Participants themselves decide which puzzles they want to solve during the event and how. E.g. some may want to stick to RC and solve one puzzle at a time. Others may want to do it autonomous or try to collect at least 10 balls for a single run.
 
+
 Example of the puzzle prototype:
+
 https://experiments.makerobots.eu/experiments/2021-07-20_button-servo
 
 Layout: 
+
 <img src="space-layout.png" alt="drawing" width="200"/>
 
 
