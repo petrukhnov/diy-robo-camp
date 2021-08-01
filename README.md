@@ -10,7 +10,7 @@ Concept of diy robotics camp
 Similar to some hackathons or barcamps. 
 
 Every participant is an organizer.
-Every participant invests time and money to participate. For 1 day event it could be e.g. 50-100$.
+Every participant invests time and money to participate. For 1 day event expenses could be around 50-100$. Most of it would go for renting space, part for own meals/water, etc.
 
 
 ## Content
