@@ -17,7 +17,7 @@ Every participant invests time and money to participate. For 1 day event it coul
 
 During the event, participants will build or modify their robot, so it could solve available puzzles.
 
-In this context, a puzzle is an assembly of ~30*30*30cm, that releases a ping-pong ball when solved. 
+In this context, a puzzle is an assembly of ~30x30x30cm, that releases a ping-pong ball when solved. 
 Simple puzzle could be e.g. a pressure plate that robot have to push with his own body.
 Another puzzle could require pressing 3 buttons out of 5 in a specific order. Or a puzzle, where robot have two repeat played sound.
 More complex puzzles may require advanced mechanics, image recognition, or special sensors.
